@@ -1,0 +1,5 @@
+INSERT INTO galgadb.`User` (id,primeiroNome,sobrenome,nomeUsuario,cidade,estado,cep,profissao,descricao,avatar_url) VALUES
+     ('0f98f5bd-fb4e-4a1e-bb7a-5d7db5a14aa3','Laura','',NULL,NULL,NULL,NULL,'Comerciante','Estou impressionada com a praticidade e a qualidade dos serviços oferecidos pelo aplicativo.','http://localhost:3333/testimonial-4.jpg'),
+     ('6e1f8aec-c935-4083-b682-10ae2cbc6cad','Camila','',NULL,NULL,NULL,NULL,'Professora','Encontrei profissionais excepcionais que entenderam perfeitamente o que eu precisava.','http://localhost:3333/testimonial-1.jpg'),
+     ('77476dee-e2b0-4d78-81c2-e9bb2dc0f157','Joana','',NULL,NULL,NULL,NULL,'Psicóloga','Esse aplicativo é simplesmente incrível! Nele, encontrei uma variedade de serviços oferecidos por mulheres talentosas e competentes.','http://localhost:3333/testimonial-3.jpg'),
+     ('b0e6762f-2465-4b3c-b579-8cb03df66d47','Silvia','',NULL,NULL,NULL,NULL,'Escritora','Recomendo para todas as mulheres que buscam excelência e atendimento personalizado.','http://localhost:3333/testimonial-2.jpg');
